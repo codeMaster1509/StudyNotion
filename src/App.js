@@ -89,11 +89,7 @@ function App() {
         <div className="flex-1 w-0 p-4">
           <div className="flex items-start">
             <div className="flex-shrink-0 pt-0.5">
-              <img
-                className="h-10 w-10 rounded-full"
-                src={picture}
-                alt=""
-              />
+              
             </div>
             <div className="ml-3 flex-1">
               <p className="text-sm font-medium text-gray-900">

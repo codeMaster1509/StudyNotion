@@ -91,7 +91,7 @@ function App() {
             <div className="flex-shrink-0 pt-0.5">
               <img
                 className="h-10 w-10 rounded-full"
-                src={}
+                src={picture}
                 alt=""
               />
             </div>
